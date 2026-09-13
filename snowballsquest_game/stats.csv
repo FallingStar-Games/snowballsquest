@@ -1,13 +1,26 @@
 ,Coda,Pythen,Frie,Kale,Vern,Topaz,Cursor,Pane,Crystal
-HP,,medhi,,,,,,,
-SP,,med,,,,,,,
+HP,medhi,medhi,medlow,med,,,,medhi,med
+SP,medlow,med,med,medlow,,,,medhi,high
 MOR,med,med,med,med,medhi,,,low,medlow
-FUL,,medhi,,,,,,,
-METB,med,med,,,,,,high,
+FUL,medlow,medhi,med,med,,,,high,med
+METB,med,med,medlow,medhi,,,,high,med
 AQUI,high,medlow,medlow,med,,,,med,med
-ATK,,medlow,,,,,,,
-SATK,,med,,,,,,,
-DEF,,low,,,,,,,
-SDEF,,high,,,,,,,
+ATK,low,medlow,med,high,,,,medhi,medlow
+SATK,medhi,med,medhi,low,,,,medhi,medhi
+DEF,med,low,medhi,med,,,,low,low
+SDEF,medlow,high,medhi,medlow,,,,medlow,med
 TEMP,medlow,medlow,low,med,med,med,med,medhi,med
-SPEED,,medhi,,,,,,,
+SPEED,low,medhi,med,med,,,,medlow,medhi
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Low = 10,,,,,,,,
+,Medlow = 20,,,,,,,,
+,Med = 30,,,,,,,,
+,Medhi = 40,,,,,,,,
+,High = 50,,,,,,,,
