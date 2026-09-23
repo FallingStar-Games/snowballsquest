@@ -1,0 +1,104 @@
+[2022-02-24 12:53:33] Debug: EasyRPG Player 0.6.1 (git~629@982ea1dc, 2020-02-25) started
+[2022-02-24 12:53:33] Debug: ===========================================================
+[2022-02-24 12:53:33] Debug: Seeded the RNG with 1645736013.
+[2022-02-24 12:53:33] Debug: CLI: 
+[2022-02-24 12:53:33] Debug: SDL2: RendererInfo hw=1 sw=0 vsync=0
+[2022-02-24 12:53:33] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-02-24 12:53:33] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-02-24 12:53:34] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2022-02-24 12:53:34] Debug: Cannot find: Title/Title3
+[2022-02-24 12:53:34] Debug: Detected encoding: ibm-5348_P100-1997. Files not found. Trying next.
+[2022-02-24 12:53:34] Debug: Cannot find: Title/Title3
+[2022-02-24 12:53:34] Debug: Detected encoding: UTF-8. Files not found. Trying next.
+[2022-02-24 12:53:34] Debug: Cannot find: Title/Title3
+[2022-02-24 12:53:34] Debug: Detected encoding: ibm-5346_P100-1998. Files not found. Trying next.
+[2022-02-24 12:53:34] Debug: Cannot find: Title/呩瑬攳
+[2022-02-24 12:53:34] Debug: Detected encoding: UTF-16BE. Files not found. Trying next.
+[2022-02-24 12:53:34] Debug: Cannot find: Title/楔汴㍥
+[2022-02-24 12:53:34] Debug: Detected encoding: UTF-16LE. Files not found. Trying next.
+[2022-02-24 12:53:34] Debug: Bad encoding: ISO-8859-9. Trying next.
+[2022-02-24 12:53:34] Debug: Cannot find: Title/Title3
+[2022-02-24 12:53:34] Debug: Detected encoding: ibm-943_P15A-2003. Files not found. Trying next.
+[2022-02-24 12:53:34] Debug: Cannot find: Title/Title3
+[2022-02-24 12:53:34] Debug: Detected encoding: windows-936-2000. Files not found. Trying next.
+[2022-02-24 12:53:34] Debug: Bad encoding: EUC-JP. Trying next.
+[2022-02-24 12:53:34] Debug: Cannot find: Title/Title3
+[2022-02-24 12:53:34] Debug: Detected encoding: windows-949-2000. Files not found. Trying next.
+[2022-02-24 12:53:34] Debug: Cannot find: Title/Title3
+[2022-02-24 12:53:34] Debug: Detected encoding: Big5. Files not found. Trying next.
+[2022-02-24 12:53:34] Debug: Bad encoding: IBM424_ltr. Trying next.
+[2022-02-24 12:53:34] Debug: Bad encoding: IBM424_rtl. Trying next.
+[2022-02-24 12:53:34] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-02-24 12:53:34] Debug: Using . as Game and Save directory
+[2022-02-24 12:53:34] Debug: Loading game Magic World - Maniac Test
+[2022-02-24 12:53:34] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2022-02-24 12:53:34] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-02-24 12:53:34] Debug: Engine configured as: 2k=0 2k3=1 MajorUpdated=1 Eng=1
+[2022-02-24 12:53:34] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2022-02-24 12:53:34] Debug: RTP is "Official English" (675/675)
+[2022-02-24 12:53:34] Debug: Cannot find: ./ExFont
+[2022-02-24 12:53:34] Debug: Loading ExFont from .\RPG_RT.exe
+[2022-02-24 12:53:34] Debug: EXEReader: BITMAP not found.
+[2022-02-24 12:53:34] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2022-02-24 12:53:34] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2022-02-24 12:53:35] Debug: libpng: iCCP: known incorrect sRGB profile
+[2022-02-24 12:53:35] Debug: libpng: cHRM: inconsistent chromaticities
+[2022-02-24 12:53:35] Debug: Game uses RTP "Official English"
+[2022-02-24 12:53:35] Debug: WildMidi Failed: WildMidi: Could not find configuration file.
+[2022-02-24 12:53:37] Debug: Starting new game
+[2022-02-24 12:53:37] Debug: Loading Map Map0001.lmu
+[2022-02-24 12:53:37] Debug: Tree: MAP0001
+[2022-02-24 12:53:57] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2022-02-24 12:53:57] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2026-07-26 00:20:55] Debug: EasyRPG Player 0.6.1 (git~629@982ea1dc, 2020-02-25) started
+[2026-07-26 00:20:55] Debug: ===========================================================
+[2026-07-26 00:20:55] Debug: Seeded the RNG with 1785050455.
+[2026-07-26 00:20:55] Debug: CLI: 
+[2026-07-26 00:20:55] Debug: SDL2: RendererInfo hw=1 sw=0 vsync=0
+[2026-07-26 00:20:55] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2026-07-26 00:20:55] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2026-07-26 00:20:55] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2026-07-26 00:20:56] Debug: Cannot find: Title/Title3
+[2026-07-26 00:20:56] Debug: Detected encoding: ibm-5348_P100-1997. Files not found. Trying next.
+[2026-07-26 00:20:56] Debug: Cannot find: Title/Title3
+[2026-07-26 00:20:56] Debug: Detected encoding: UTF-8. Files not found. Trying next.
+[2026-07-26 00:20:56] Debug: Cannot find: Title/Title3
+[2026-07-26 00:20:56] Debug: Detected encoding: ibm-5346_P100-1998. Files not found. Trying next.
+[2026-07-26 00:20:56] Debug: Cannot find: Title/呩瑬攳
+[2026-07-26 00:20:56] Debug: Detected encoding: UTF-16BE. Files not found. Trying next.
+[2026-07-26 00:20:56] Debug: Cannot find: Title/楔汴㍥
+[2026-07-26 00:20:56] Debug: Detected encoding: UTF-16LE. Files not found. Trying next.
+[2026-07-26 00:20:56] Debug: Bad encoding: ISO-8859-9. Trying next.
+[2026-07-26 00:20:56] Debug: Cannot find: Title/Title3
+[2026-07-26 00:20:56] Debug: Detected encoding: ibm-943_P15A-2003. Files not found. Trying next.
+[2026-07-26 00:20:56] Debug: Cannot find: Title/Title3
+[2026-07-26 00:20:56] Debug: Detected encoding: windows-936-2000. Files not found. Trying next.
+[2026-07-26 00:20:56] Debug: Bad encoding: EUC-JP. Trying next.
+[2026-07-26 00:20:56] Debug: Cannot find: Title/Title3
+[2026-07-26 00:20:56] Debug: Detected encoding: windows-949-2000. Files not found. Trying next.
+[2026-07-26 00:20:56] Debug: Cannot find: Title/Title3
+[2026-07-26 00:20:56] Debug: Detected encoding: Big5. Files not found. Trying next.
+[2026-07-26 00:20:56] Debug: Bad encoding: IBM424_ltr. Trying next.
+[2026-07-26 00:20:56] Debug: Bad encoding: IBM424_rtl. Trying next.
+[2026-07-26 00:20:56] Debug: Detected encoding: ibm-5348_P100-1997
+[2026-07-26 00:20:56] Debug: Using . as Game and Save directory
+[2026-07-26 00:20:56] Debug: Loading game Magic World - Maniac Test
+[2026-07-26 00:20:56] Debug: Using RPG2k3 (English release, v1.11) Interpreter
+[2026-07-26 00:20:56] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2026-07-26 00:20:56] Debug: Engine configured as: 2k=0 2k3=1 MajorUpdated=1 Eng=1
+[2026-07-26 00:20:56] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2026-07-26 00:20:56] Debug: RTP is "Official English" (675/675)
+[2026-07-26 00:20:56] Debug: Cannot find: ./ExFont
+[2026-07-26 00:20:56] Debug: Loading ExFont from .\RPG_RT.exe
+[2026-07-26 00:20:56] Debug: EXEReader: BITMAP not found.
+[2026-07-26 00:20:56] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2026-07-26 00:20:56] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2026-07-26 00:20:57] Debug: libpng: iCCP: known incorrect sRGB profile
+[2026-07-26 00:20:57] Debug: libpng: cHRM: inconsistent chromaticities
+[2026-07-26 00:20:57] Debug: Game uses RTP "Official English"
+[2026-07-26 00:20:57] Debug: WildMidi Failed: WildMidi: Could not find configuration file.
+[2026-07-26 00:21:01] Debug: Starting new game
+[2026-07-26 00:21:02] Debug: Loading Map Map0001.lmu
+[2026-07-26 00:21:02] Debug: Tree: MAP0001
+[2026-07-26 00:21:29] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2026-07-26 00:21:29] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
